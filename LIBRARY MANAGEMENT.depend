@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1623506188 source:f:\sem-2\data structure lab\library management\src\book.cpp
+	"book.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string>
+	<iomanip>
+	<windows.h>
+	<sstream>
+
+1623416053 f:\sem-2\data structure lab\library management\include\book.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<windows.h>
+
+1623761229 source:f:\sem-2\data structure lab\library management\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	"book.h"
+	"student.h"
+	"menu.h"
+
+1623157301 f:\sem-2\data structure lab\library management\include\student.h
+
+1623160115 source:f:\sem-2\data structure lab\library management\src\student.cpp
+	"student.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string>
+	<iomanip>
+	<windows.h>
+	"book.h"
+
+1623156793 f:\sem-2\data structure lab\library management\include\menu.h
+	<fstream>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<windows.h>
+	"book.h"
+	"student.h"
+
+1623506823 source:f:\sem-2\data structure lab\library management\src\menu.cpp
+	"menu.h"
+	"student.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string>
+	<iomanip>
+	<windows.h>
+	"book.h"
+
+1623761229 source:f:\sem-2\data structure lab\library management system_202001155_202001236\library management\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	"book.h"
+	"student.h"
+	"menu.h"
+
+1623416053 f:\sem-2\data structure lab\library management system_202001155_202001236\library management\include\book.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<windows.h>
+
+1623157301 f:\sem-2\data structure lab\library management system_202001155_202001236\library management\include\student.h
+
+1623156793 f:\sem-2\data structure lab\library management system_202001155_202001236\library management\include\menu.h
+	<fstream>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<windows.h>
+	"book.h"
+	"student.h"
+
+1623506188 source:f:\sem-2\data structure lab\library management system_202001155_202001236\library management\src\book.cpp
+	"book.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string>
+	<iomanip>
+	<windows.h>
+	<sstream>
+
+1623160115 source:f:\sem-2\data structure lab\library management system_202001155_202001236\library management\src\student.cpp
+	"student.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string>
+	<iomanip>
+	<windows.h>
+	"book.h"
+
